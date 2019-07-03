@@ -27,7 +27,7 @@ We have used the following Python libraries in the course. Kindly ensure you hav
 ## Running the code:
 Once you have your system in place, you can run the notebooks using Jupyter interface and Python codes using the Spyder Interface. This is installed along with Anaconda. You need to update the API keys for the following in the 'sentiment_analysis_quantra.py' file in each folder given below. Kindly fetch the API keys according to the instructions provided in the corresponding PDFs. You can then paste the keys in the respective functions
 
-Functions:
+Functions: <br>
 1. get_twitter_tokens() - Get the Twitter API keys by following the steps given in the 'Get Twitter API Keys - Guide.pdf' and 		   paste in this function <br>
 2. get_rapid_api_key() - Get the Rapid API key by following the steps given in the 'Get Botometer API Key - Guide.pdf' and paste 	    in this function <br>
 3. get_webhoseio_key() - Get the Webhoseio API key by following the steps given in the 'S12 Fetching news articles.ipynb' under 	   'Getting API key' <br>
