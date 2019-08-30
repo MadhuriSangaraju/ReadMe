@@ -2,7 +2,7 @@
 
 In this course, you have learned the steps involved in data science projects. You have learned to identify data quality issues and remediate the issue. You have also learned how to perform exploratory data analysis on the EPL data in MS Excel and Python.
 
-## This readme file has the following sections:
+## This readme file has the following sections
 1. Prerequisites
 2. Installing packages
 3. Running the code
@@ -11,22 +11,22 @@ In this course, you have learned the steps involved in data science projects. Yo
 6. Acknowledgements
 
 
-## Prerequisites:
+## Prerequisites
 Before running the notebook, you need to setup a Python environment on your local machine. If already present, make sure the Python version is 3.6.8. To change the Python version, open the Anaconda prompt and type the following command: 
 
 	conda install python=3.6.8
 
-## Installing packages:
+## Installing packages
 In all the codes provided, specific Python libraries are used. For you to smoothly run the code on your machine, make sure you have the correct versions of the packages. These are the libraries we have used in the notebooks with their versions. To install the same version on your local system. Type this command on IPython notebook.
 
 	!pip install numpy==1.15.1
 	!pip install pandas==0.23.4
 	!pip install matplotlib==2.2.3
   
-## Running the code:
+## Running the code
 Once you have your system in place, you can run the notebooks using Jupyter interface. This is installed along with Anaconda. Search for Jupyter Notebook and open it. Search for the downloadable folder in the Jupyter interface and open it to see the notebook.
 
-## Folder structure:
+## Folder structure
 This folder contains 3 subfolders divided based on the sections of the course. Each subfolder contains either Excel or Jupyter notebook and the data required to run them in that particular section.
 
 	1. Section 5  Data Analysis
@@ -39,7 +39,7 @@ This folder contains 3 subfolders divided based on the sections of the course. E
 	3. Section 7 Data Modelling
 		a. EPL_prediction_calculations.xlsx
 
-## Author:
+## Author
 Quantra by QuantInsti
 
 ## Acknowledgements
